@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "SpiriteMinecraft",
+    "password": "',
+    "type": "offline"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "jartexnetwork.com",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.8.9"
   },
 
   "position": {
