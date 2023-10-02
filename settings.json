@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "SpiriteMinecraft",
+    "username": "Spirite_BOT",
     "password": "",
     "type": "offline"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "123098"
+      "password": "rjsingh07"
     },
 
     "anti-afk": {
