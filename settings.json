@@ -49,6 +49,7 @@
 
       "messages": [
         "/server factions", 
+        "/afk", 
         "/ping", 
         " hello"
       ]
