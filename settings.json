@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "jartexnetwork.com",
+    "ip": "play.menacemc.xyz",
     "port": 25565,
-    "version": "1.8.9"
+    "version": "1.20"
   },
 
   "position": {
@@ -48,10 +48,8 @@
       "repeat-delay": 60,
 
       "messages": [
-        "/server factions", 
-        "/afk", 
-        "/ping", 
-        " hello"
+        "/server abyss", 
+        "hello"
       ]
     },
 
